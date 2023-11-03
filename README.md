@@ -16,7 +16,7 @@ Automatically accept your matches on counter strike 2
 **Download the program :**<br>
 - https://github.com/Walkoud/cs2-anti-afk/releases/tag/v1 <br><br>
 
-**Open the program, and push the button "m" ** 
+**Open the program, and push the button "m"** 
 <br><br>
 **Now you can go to the WC to poop**
 
