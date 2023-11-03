@@ -5,7 +5,9 @@ Automatically accept your matches on counter strike 2
 
 ![image](https://github.com/Walkoud/cs2-anti-afk/assets/38588921/5c658429-3795-4550-af7e-b0f1340b064e)
 
+## Detected like virus
 
+**It detected like virus because the program control your keyboard for anti-afk**<br>
 
 ## Usage
 **You need Python installed in you Windows**<br>
