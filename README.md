@@ -1,7 +1,7 @@
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
 # CS2-Anti-AFK - Working 14/04/2024
 
-Automatically accept your matches on counter strike 2
+Anti AFK for counter strike and many games (just moving automaticly with AZERTY and QWERTY) 
 
 ![image](https://github.com/Walkoud/cs2-anti-afk/assets/38588921/5c658429-3795-4550-af7e-b0f1340b064e)
 
