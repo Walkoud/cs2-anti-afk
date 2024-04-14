@@ -33,26 +33,38 @@ def on_key_release(key):
         if active:
             active = False
             print("ANTI-AFK desactivated - OFF")
+            keyboard1.release('g')
+            keyboard1.release('a')
+            keyboard1.release('w')
+            keyboard1.release('z')
+            keyboard1.release('d')
         else:
             active = True
             print("ANTI-AFK activated - ON")
+
             
     if str(key) == "'!'":
         running = False
 
 def anti_afk():
     while running:
-        if active:
+        time.sleep(1)
+        if active == True:
             keyboard1.press("w")
             keyboard1.press("z")
             time.sleep(1)
+            keyboard1.release('w')
+            keyboard1.release('z')
             keyboard1.press("d")
             time.sleep(1)
+            keyboard1.release('d')
+            keyboard1.press("g")
             keyboard1.press("a")
-            keyboard1.press("q")
             time.sleep(1)
-            keyboard1.press("s")
-            time.sleep(1)
+            keyboard1.release('g')
+            keyboard1.release('a')
+            
+           
 
 listener = keyboard.Listener(on_release=on_key_release)
 listener.start()
