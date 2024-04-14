@@ -14,7 +14,7 @@ Automatically accept your matches on counter strike 2
 - You can download easely : https://www.python.org/downloads/ <br><br>
 
 **Download the program :**<br>
-- https://github.com/Walkoud/cs2-anti-afk/releases/tag/v1 <br><br>
+- https://github.com/Walkoud/cs2-anti-afk/releases/tag/v2 <br><br>
 
 **Open the program, and push the button "m"** 
 <br><br>
