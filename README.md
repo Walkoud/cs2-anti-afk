@@ -1,41 +1,37 @@
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
+# CS2-Anti-AFK - Working 14/04/2024
 
-# media-downloader-ez
-A npm package to download video from url (insta, youtube, tiktok, X...) to discord.
+Anti AFK for counter strike and many games (just moving automaticly with AZERTY and QWERTY) 
 
+![image](https://github.com/Walkoud/cs2-anti-afk/assets/38588921/5c658429-3795-4550-af7e-b0f1340b064e)
 
-## Exemple for discord js : 
-```js
-const MediaDownloader = require('media-downloader-ez');
+## Detected like virus
 
+**It detected like virus because the program control your keyboard for anti-afk**<br>
 
+## Usage
+**You need Python installed in you Windows**<br>
+- You can download easely : https://www.python.org/downloads/ <br><br>
 
-const Discord = require('discord.js-v11-stable');
-const client = new Discord.Client({
-    disableEveryone: true
-  });
+**Download the program :**<br>
+- https://github.com/Walkoud/cs2-anti-afk/releases/tag/v2 <br><br>
 
-client.on('message', async (message) => {
-  try {
-    if(message.content.startsWith('!download') && message.content.includes('http')){
-        let attachment = await MediaDownloader(message.content);
-        message.channel.send({ content: `Téléchargé par: \`${message.author.username}\``, files: [attachment] });
-    }
+**Open the program, and push the button "m"** 
+<br><br>
+**Now you can go to the WC to poop**
 
 
-
-  } catch (error) {
-    console.error('Erreur lors du téléchargement de la vidéo :', error);
-    message.reply('Une erreur est survenue lors du téléchargement de la vidéo.').then((m) => { deleteMessage(m); });
-  }
-});
+<img src="https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/bdaa2e7a-b5b3-437b-89f7-6350286bfb53" alt="aaa" width="300" height="200">
 
 
+## Informations
 
-client.login("your token").catch((err) => {
-    console.log('INCORECT TOKEN LOGIN !')
-  })
+**VAC BAN ?** <br>
+- You can't be VAC ban
+<br> <br>
 
-```
+
+**My discord tag:**<br>
+- walkoud <br> <br>
 
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
