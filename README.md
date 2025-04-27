@@ -1,5 +1,5 @@
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
-# CS2-Anti-AFK - Working 14/04/2024
+# CS2-Anti-AFK - Working 27/04/2025
 
 Anti AFK for counter strike and many games (just moving automaticly with AZERTY and QWERTY) 
 
