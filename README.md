@@ -14,7 +14,7 @@ Anti AFK for counter strike and many games (just moving automaticly with AZERTY 
 - You can download easely : https://www.python.org/downloads/ <br><br>
 
 **Download the program :**<br>
-- https://github.com/Walkoud/cs2-anti-afk/releases/tag/v2 <br><br>
+- https://github.com/Walkoud/cs2-anti-afk/releases <br><br>
 
 **Open the program, and push the button "m"** 
 <br><br>
